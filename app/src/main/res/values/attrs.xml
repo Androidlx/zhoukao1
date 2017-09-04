@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MyCustomView">
+        <!--颜色-->
+        <attr name="color" format="color"></attr>
+        <!--半径-->
+        <attr name="radius" format="dimension"></attr>
+        <!--宽度-->
+        <attr name="strokewidth" format="dimension"></attr>
+    </declare-styleable>
+
+</resources>
